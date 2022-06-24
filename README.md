@@ -1,7 +1,7 @@
 # Observer
 Observer is a device that measures the altitude, acceleration, rotation, and location of model rockets. 
 
-As of June 24, 2022, Observer's schematic is incomplete. It uses the following chips:
+As of June 24, 2022, Observer's schematic is complete-ish but untested. It uses the following chips:
 - SAMD21G18   (Processing)
 - USB-C port (data transfer
   + Protection IC (can be omitted) 
