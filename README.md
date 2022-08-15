@@ -52,5 +52,4 @@ As for the name, 'observer' is staying for now since I can't really think of any
 else. Suggestions would be much appreciated! 
 
 This project is licensed under the GNU General Public License v3.0.
-Please use responsibly. Any military use is forbidden, unless approved by the 
-creator (me). 
+Please use responsibly. You *can* make a missle with this, but that doesn't mean you should.  
